@@ -3,7 +3,6 @@ let user ={Name: "",
   Hobby:""};
 
 function informationCard(){
-    
     console.log(`Hi, my name is ${user.Name} I live in ${user.Location} and ${user.Hobby}.`)
 }
 informationCard(
